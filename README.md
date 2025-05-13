@@ -58,6 +58,25 @@ Este repositório documenta minha prática com o uso das ferramentas **Azure Spe
   - Tradução automática de conteúdo.
   - Análise de sentimentos para interpretação de intenções e emoções.
 
+# Planejamento de uma IA Generativa Responsável
+
+Para criar uma solução de IA generativa de forma responsável, é importante seguir quatro fases:
+
+## 1. Identificar
+
+Verificar possíveis danos que a solução pode causar.
+
+## 2. Medir
+
+Analisar se esses danos aparecem nas respostas da IA, por meio de testes e avaliações.
+
+## 3. Mitigar
+
+Reduzir os danos com ajustes no sistema.
+
+## 4. Operar
+
+Usar a solução com responsabilidade, criando um plano de uso, monitoramento e melhoria contínua.
 
 
 
